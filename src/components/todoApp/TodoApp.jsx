@@ -72,7 +72,7 @@ const TodoApp = () => {
     // console.log("checkbox clicked", id);
   };
   return (
-    <div className='"todo-container'>
+    <div className="todo-container">
       <div className="todo-container__input-box">
         <input
           value={currentTodo}
